@@ -1,7 +1,6 @@
 Maze Escape is a popular 1 player game where a bot is trapped in a maze and is expected to find its way out. In this version of the game, 2 bots whose positions are not visible to each other are placed at random points in the maze. the first bot to find its way out of the maze wins the game.
 
 The visibility of the bot is restricted to its 8 adjacent cells as shown in the figure below
-
 ---
 -b-
 ---
@@ -60,7 +59,7 @@ Sample Input
 #--
 Sample Output
 
-RIGHT
+RIGHT 
 Explanation
 
 Considering the maze given above. If the input is as given below with the bot initially facing the RIGHT side of the maze, if the bot chooses to go RIGHT, the new position of the bot in the maze would be
